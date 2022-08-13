@@ -1,0 +1,26 @@
+.wrapper {
+    padding: 2em 1.2em;
+    background: #f1faff;
+  }
+  
+ 
+  h3{
+    text-align: center;
+  }
+  
+  .Pick-container{
+    display: flex !important;
+  }
+
+
+  .pick-box{
+background: white;
+padding: 1.2em;
+  }
+ 
+  
+
+  @media only screen and (min-width: 920px) {
+    
+  }
+  
